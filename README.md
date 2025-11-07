@@ -47,7 +47,7 @@ Sum of Quantity	Total Qty	📦
 Count of Order ID	No. of Orders	🛒
 Sum of Profit Margin	Profit Margin	🔍
 
-<img width="357" height="145" alt="image" src="https://github.com/user-attachments/assets/3d5189ca-b268-4e3a-8203-0b8e894a7dab" 
+<img width="357" height="145" alt="image" src="https://github.com/user-attachments/assets/3d5189ca-b268-4e3a-8203-0b8e894a7dab" />
 
 ## Problem Statements Solved with Steps
 ### 1. Key Performance Indicators (KPIs)
